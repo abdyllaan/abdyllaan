@@ -1,1 +1,56 @@
-# abdyllaan
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Abdylla Adhiyasa</h1>
+<h3 align="center">💻 SMK Teacher | ☁️ AWS Cloud Enthusiast | 👨‍🏫 IT Educator</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Passionate+about+Cloud%2C+Linux%2C+and+DevOps;Let%E2%80%99s+build+something+awesome+together!+" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 I’m currently learning **AWS Cloud, Docker, and DevOps tools**
+- 👨‍🏫 I teach **Networking, System Administration, and App Development** at SMK
+- 💬 Ask me about **Linux, Git, Cloud, or NixOS**
+- 🏆 Guiding students to participate in **LKS Cloud Computing 2025**
+- 🌐 Website/Blog: [abdylla.my.id](https://abdylla.my.id) *(ubah ke websitemu)*
+- 📫 Reach me at: [abdyllaan@guru.belajar.id](mailto:abdyllaan@guru.belajar.id)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdyllaann&show_icons=true&locale=en&layout=compact&cache_seconds=60" alt="abdyllaann" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdyllaann&show_icons=true&locale=en" alt="abdyllaann" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🚀 [**LKS Cloud 2025 Practice Repo**](https://github.com/abdyllan/lks-cloud-2025)
+- 📱 [**Android App Collaboration**](https://github.com/abdyllan/app1biodata)
+- ☁️ [**AWS IoT Dashboard**](https://github.com/abdyllan/aws-iot-dashboard)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abdylla" target="blank"><img align="center
