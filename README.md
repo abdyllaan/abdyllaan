@@ -39,15 +39,7 @@ d- 🌐 Website/Blog: [abdyllaan.cc](https://abdyllaan.cc)
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdyllaan&show_icons=true&locale=en" alt="abdyllaan" />
 </p>
 
----
 
-### 📂 Featured Projects
-
-- 🚀 [**LKS Cloud 2025 Practice Repo**](https://github.com/abdyllan/lks-cloud-2025)
-- 📱 [**Android App Collaboration**](https://github.com/abdyllan/app1biodata)
-- ☁️ [**AWS IoT Dashboard**](https://github.com/abdyllan/aws-iot-dashboard)
-
----
 
 ### 🔗 Connect with Me
 
