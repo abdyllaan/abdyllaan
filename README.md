@@ -35,8 +35,8 @@ d- 🌐 Website/Blog: [abdyllaan.cc](https://abdyllaan.cc)
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdyllaann&show_icons=true&locale=en&layout=compact&cache_seconds=60" alt="abdyllaann" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdyllaann&show_icons=true&locale=en" alt="abdyllaann" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdyllaan&show_icons=true&locale=en&layout=compact&cache_seconds=60" alt="abdyllaan" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdyllaan&show_icons=true&locale=en" alt="abdyllaan" />
 </p>
 
 ---
