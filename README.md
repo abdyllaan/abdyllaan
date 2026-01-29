@@ -10,12 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **AWS Cloud, Docker, and DevOps tools**
+- 🌱 I’m currently learning **AWS Cloud, DevOps, and Mobile Development**
 - 👨‍🏫 I teach **Networking, System Administration, and App Development** at SMK
-- 💬 Ask me about **Linux, Git, Cloud, or NixOS**
-- 🏆 Guiding students to participate in **LKS Cloud Computing 2025**
-- 🌐 Website/Blog: [abdylla.my.id](https://abdylla.my.id) *(ubah ke websitemu)*
-- 📫 Reach me at: [abdyllaan@guru.belajar.id](mailto:abdyllaan@guru.belajar.id)
+- 💬 Ask me about **Linux, Git, Cloud, or CLI tools**
+d- 🌐 Website/Blog: [abdyllaan.cc](https://abdyllaan.cc) 
+- 📫 Reach me at: [admin@abdyllaan.cc](mailto:admin@abdyllaan.cc)
 
 ---
 
